@@ -4,7 +4,7 @@ function App() {
       <header className="App-header">
         <a href="/">Ecommerce</a>
       </header>
-      <main>list products</main>
+      <main>list productss</main>
     </div>
   );
 }
